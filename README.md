@@ -1,0 +1,2 @@
+# autotest_serial_rfid
+超高频RFID设备嵌入式软件自动化测试框架pytest+pyserial
