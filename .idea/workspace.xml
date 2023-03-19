@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d2a7f3d-1d02-4d19-8a8a-45644ad4fec3" name="Changes" comment="rfid">
+      <change afterPath="$PROJECT_DIR$/../../.localized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../information" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/.localized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/db1.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/excel_test.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/information" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_serial/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_serial/.idea/demo_serial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_serial/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_serial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_serial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_serial/Func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_serial/WinControl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo_serial/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/.idea/djangoProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app01/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app01/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app01/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app01/static/1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app01/templates/user_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app01/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app01/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app02/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app02/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app02/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app02/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app02/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app02/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app02/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app03/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app03/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app03/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app03/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app03/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app03/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app03/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app04/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app04/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app04/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app04/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app04/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app04/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/app04/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/djangoProject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/djangoProject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/djangoProject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/djangoProject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/djangoProject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask框架/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask框架/.idea/flask框架.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask框架/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask框架/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask框架/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask框架/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flask框架/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/.idea/mysite01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/app01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/app01/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/app01/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/app01/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/app01/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/app01/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/mysite01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/mysite01/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/mysite01/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/mysite01/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite01/mysite01/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_seleium/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_seleium/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_seleium/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_seleium/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_seleium/.idea/pythonProject_seleium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_seleium/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pyqt/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pyqt/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pyqt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pyqt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pyqt/.idea/test_pyqt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_pyqt/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/.idea/testdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/excel_deal_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/excel_style.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/excel_test.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/file-r-mode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/file-w-mode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/file_replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/gloden_flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/name_list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testdemo/tur_photo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../商用服务机器人.xmind" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="note" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N3L2HkesDaYmaBJV7OnULTJqqs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RunManager" selected="Python.command_bulider">
+    <configuration name="command_bulider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="auto_test_module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/command_bulider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_frame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="auto_test_module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_frame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="auto_test_module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="auto_test_module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.command_bulider" />
+        <item itemvalue="Python.extract_frame" />
+        <item itemvalue="Python.module" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d2a7f3d-1d02-4d19-8a8a-45644ad4fec3" name="Changes" comment="" />
+      <created>1678887612957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678887612957</updated>
+      <workItem from="1678887613577" duration="35847000" />
+    </task>
+    <task id="LOCAL-00001" summary="rfid">
+      <created>1679240927695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679240927695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rfid" />
+    <option name="LAST_COMMIT_MESSAGE" value="rfid" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/extract_frame.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/command_bulider.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auto_test_module$module.coverage" NAME="module Coverage Results" MODIFIED="1679129689642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_test_module$command_bulider.coverage" NAME="command_bulider Coverage Results" MODIFIED="1679229644808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_test_module$main.coverage" NAME="main Coverage Results" MODIFIED="1679228103635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auto_test_module$extract_frame.coverage" NAME="extract_frame Coverage Results" MODIFIED="1679229637175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
